@@ -1,5 +1,4 @@
 import os,random
-print(os.getcwd())  # In ra thư mục hiện tại
 
 for i in range (20):
     d = str(i) + 'days ago'
